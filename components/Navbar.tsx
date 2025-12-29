@@ -51,7 +51,7 @@ const Navbar = () => {
           />
           <p className="text-white text-[18px] font-bold cursor-pointer">
             Teja &nbsp;
-            <span className="block lg:inline">| Full Stack Developer</span>
+            <span className="block lg:inline">| Full Stack Developer | SAP BTP Architect</span>
           </p>
         </Link>
         <ul className="list-none hidden sm:flex flex-row gap-10 sm:items-center items-center ">

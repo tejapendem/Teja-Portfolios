@@ -44,10 +44,21 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Full Stack Developer",
+    title: "Full Stack Architect",
     icon: backend,
   },
- 
+  {
+    title: "SAP BTP UI5/fiori",
+    icon: creator,
+  },
+  {
+    title: "SAP BTP CAPM/CDS",
+    icon: web,
+  },
+  {
+    title: "SAP BTP Architect",
+    icon: mobile,
+  },
 ];
 
 const technologies = [
@@ -106,7 +117,24 @@ const technologies = [
   {
     name: "photoshop",
     icon: "/images/tech/photoshop.png",
-  }
+  },
+  {
+    name: "sapui5",
+    icon: "/images/tech/sapui5.png",
+  },
+  {
+    name: "sapbtp",
+    icon: "/images/tech/sapbtp.png",
+  },
+  {
+    name: "sapfiori",
+    icon: "/images/tech/sapfiori.png",
+  },
+  {
+    name: "sapcapm",
+    icon: "/images/tech/sapcapm.png",
+  },
+  
 ];
 
 const experiences = [
